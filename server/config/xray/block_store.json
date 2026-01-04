@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Deepslate Iron Ore",
+    "blockName": "minecraft:deepslate_iron_ore",
+    "order": 1,
+    "color": 11512743,
+    "drawing": true
+  }
+]
