@@ -835,3 +835,60 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [04Jan2026 23:13:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
 [04Jan2026 23:15:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Jan2026 23:15:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: which java<--[HERE]
+[04Jan2026 23:20:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[04Jan2026 23:20:26.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27bff092[id=<null>,name=Tuxedo63,properties={},legacy=false] (/[::1]:33002) lost connection: Disconnected
+[04Jan2026 23:20:35.139] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Jan2026 23:20:35.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tuxedo63[/[::1]:37374] logged in with entity id 35 at (11.5, 66.0, 55.5)
+[04Jan2026 23:20:35.325] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tuxedo63
+[04Jan2026 23:20:35.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 joined the game
+[04Jan2026 23:20:35.448] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Jan2026 23:20:35.502] [Server thread/INFO] [Jade/]: Syncing config to Tuxedo63 (94f35e18-2e69-3b39-b67d-1b6cbb9aa5d4)
+[04Jan2026 23:20:45.647] [Worker-Main-13/INFO] [bettercaves/]: CREATING AND INIT'ING MASTER CONTROLLER...
+[04Jan2026 23:20:57.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tuxedo63 lost connection: Disconnected
+[04Jan2026 23:20:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 left the game
+[04Jan2026 23:21:03.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tuxedo63[/[::1]:47680] logged in with entity id 274 at (61.786399458, 65.0625, 17.3225898718076)
+[04Jan2026 23:21:03.410] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tuxedo63
+[04Jan2026 23:21:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 joined the game
+[04Jan2026 23:21:03.500] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Jan2026 23:21:03.600] [Server thread/INFO] [Jade/]: Syncing config to Tuxedo63 (94f35e18-2e69-3b39-b67d-1b6cbb9aa5d4)
+[04Jan2026 23:21:23.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Acquire Hardware]
+[04Jan2026 23:21:46.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Monster Hunter]
+[04Jan2026 23:22:06.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Sweet Dreams]
+[04Jan2026 23:24:03.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Diamonds!]
+[04Jan2026 23:24:03.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Suit Up]
+[04Jan2026 23:24:03.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Ice Bucket Challenge]
+[04Jan2026 23:24:44.744] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.762 ms. 5410/5560 recipes are parallelized.
+[04Jan2026 23:27:23.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has reached the goal [Feeling Watched]
+[04Jan2026 23:27:32.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Isn't It Iron Pick]
+[04Jan2026 23:27:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 has made the advancement [Multi-Tool]
+[04Jan2026 23:29:22.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tuxedo63 lost connection: Disconnected
+[04Jan2026 23:29:22.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 left the game
+[04Jan2026 23:29:32.529] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67a4f365[id=<null>,name=Tuxedo63,properties={},legacy=false] (/[::1]:50198) lost connection: Disconnected
+[04Jan2026 23:29:41.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tuxedo63[/[::1]:46128] logged in with entity id 2096 at (65.34189703952767, 64.9375, 11.258802849067504)
+[04Jan2026 23:29:41.115] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tuxedo63
+[04Jan2026 23:29:41.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 joined the game
+[04Jan2026 23:29:41.130] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Jan2026 23:29:41.143] [Server thread/INFO] [Jade/]: Syncing config to Tuxedo63 (94f35e18-2e69-3b39-b67d-1b6cbb9aa5d4)
+[04Jan2026 23:32:54.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tuxedo63 a server operator
+[04Jan2026 23:32:59.776] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[04Jan2026 23:35:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tuxedo63: Set own game mode to Spectator Mode]
+[04Jan2026 23:35:35.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tuxedo63 lost connection: Disconnected
+[04Jan2026 23:35:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tuxedo63 left the game
+[04Jan2026 23:36:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jan2026 23:36:15.079] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[04Jan2026 23:36:15.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2026 23:36:15.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2026 23:36:15.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2026 23:36:15.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2026 23:36:16.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2026 23:36:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mining_dimension:mining
+[04Jan2026 23:36:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2026 23:36:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2026 23:36:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2026 23:36:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[04Jan2026 23:36:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2026 23:36:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2026 23:36:16.513] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Jan2026 23:36:16.515] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[04Jan2026 23:36:16.517] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[04Jan2026 23:36:16.536] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
