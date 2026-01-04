@@ -12148,3 +12148,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [04Jan2026 23:13:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
 [04Jan2026 23:15:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Jan2026 23:15:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: which java<--[HERE]
+[04Jan2026 23:18:47.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2026 23:18:47.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
